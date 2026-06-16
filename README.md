@@ -1,2 +1,2 @@
-# Portfolio-.html
+# Portfolio
 A simple personal portfolio website showcasing my skills, projects, education and contact details using HTML and CSS.
